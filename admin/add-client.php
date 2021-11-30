@@ -61,7 +61,7 @@ echo "<script>window.location.href ='add-client.php'</script>";
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Client Management Sysytem|| Add Clients</title>
+	<title>Admin Add Clients</title>
 
 	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<!-- Bootstrap Core CSS -->
