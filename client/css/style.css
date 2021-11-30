@@ -259,13 +259,15 @@ background-color:#00C6D7!important;
 .sidebar-icon {
        margin-top: -2px;
     /*border: 1px solid #00C6D7;*/
+    border: 1px solid lightcoral;
     text-align: right;
     line-height: 1;
     font-size: 19px;
     padding: 8px 10px;
     border-radius: 0px;
     color: #fff;
-    background: #02BBCA;
+    /*background: #02BBCA;*/
+    background: lightcoral;
     float: right;
 }
 ul#menu i {
@@ -2613,8 +2615,10 @@ label.control-label {
 }
 .btn-primary {
     color: #fff;
-     background-color: #042252;
-    border-color: #052963;
+     /*background-color: #042252;*/
+     background-color: lightcoral;
+    /*border-color: #052963;*/
+    background-color: lightcoral;
 	outline: none;
 }
 .btn-primary.active, .btn-primary.focus, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open>.dropdown-toggle.btn-primary {
